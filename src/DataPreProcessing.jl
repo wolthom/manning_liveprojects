@@ -1,6 +1,7 @@
 module DataPreProcessing
 
-export greet
+include("download_file.jl")
+export download_file
 
 greet() = print("Hello World!")
 
