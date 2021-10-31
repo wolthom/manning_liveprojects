@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+solutions/*.txt
+solutions/*.arrow
+solutions/*.csv
